@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.git
+.github
+.gitignore
+README.md
+.env
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+*.log
+.vscode
+.idea
+*.tar
+scripts

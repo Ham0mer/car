@@ -1,0 +1,12 @@
+node_modules/
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+.env
+*.log
+public/uploads/
+# 所有 tar 文件
+*.tar
+
+
